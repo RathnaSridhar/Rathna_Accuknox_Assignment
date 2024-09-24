@@ -11,9 +11,9 @@ To run the automated test, ensure that you have the following installed
 To install the required dependencies , clone the repository and run the following command in the root directory:
 
 **Git Bash**
-git clone https://github.com/RathnaSridhar/Rathna_Accuknox_Assignment.git
-cd Rathna_Accuknox_Assignment
-mvn clean install
+1. git clone https://github.com/RathnaSridhar/Rathna_Accuknox_Assignment.git
+2. cd Rathna_Accuknox_Assignment
+3. mvn clean install
 
 **To tun the Automated Test**
 use the command **mvn test**
